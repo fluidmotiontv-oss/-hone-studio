@@ -1,0 +1,6 @@
+{
+  "name": "Studio AI",
+  "description": "Creative mentor for vector art, beats, digital comics, and AR stories, synchronized with the Dragon 9 Temporal Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
